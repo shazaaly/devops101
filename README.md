@@ -33,7 +33,6 @@ until [ $counter -gt 5 ]; do
     ((counter++))
 done
 ```
-
 2. Variable Assignment and Arithmetic:
 In Bash, you can assign values to variables and perform arithmetic operations directly or using the `let` command.
 
