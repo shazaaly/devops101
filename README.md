@@ -118,3 +118,4 @@ To ensure your Bash scripts work across different environments and operating sys
 
 Conclusion:
 This sample covered essential topics related to Bash scripting, including loops, variable assignment, arithmetic operations, comparison operators, file test operators, and best practices for making your Bash scripts portable. By applying these concepts and following the recommended guidelines, you can create robust and cross-platform Bash scripts.
+Happy Scripting
