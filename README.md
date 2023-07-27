@@ -1,4 +1,5 @@
-Title: Loops Sample - Variable Assignment and Arithmetic - Comparison Operators - File Test Operators - Making Your Bash Scripts Portable
+Title: 
+Loops Sample - Variable Assignment and Arithmetic - Comparison Operators - File Test Operators - Making Your Bash Scripts Portable
 
 Introduction:
 In this sample, we will explore various concepts related to Bash scripting, including loops, variable assignment, arithmetic operations, comparison operators, file test operators, and best practices for making your Bash scripts portable across different environments.
